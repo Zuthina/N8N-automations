@@ -18,9 +18,4 @@ expressions/ Useful expressions and filters.
 sheet-template/ Recommended Google Sheet structure.
 
 # Requirements
-n8n
-Google Drive
-Google Sheet
-Openrouter
-OpenWebNinja
-Apify
+n8n, Google Drive, Google Sheet, Openrouter, OpenWebNinja, Apify
