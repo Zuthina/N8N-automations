@@ -1,0 +1,1 @@
+{{ /just now|just posted|today|yesterday|minute|hour/i.test($json.job_posted_at || '') || Number((($json.job_posted_at || '').match(/(\d+)\s*day/) || [])[1]) <= 15 }}
